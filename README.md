@@ -12,13 +12,13 @@
 
 ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=Keshav-Kant.Keshav-Kant)
 
-I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
+I am a Freelancer Full Stack Developer. I love programming, reading, and Implementing.
 
-As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
+As a Full Stack Developer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
 
 That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Keshav-Kant/Keshav-Kant/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 
 ### Talking about Personal Stuff:
