@@ -99,4 +99,6 @@ That's why I like to make things that make a difference.
 📊 <b>This Week I Spent My Time On</b>
 
 <!--START_SECTION:waka-->
+![WakaTime Stats](https://wakatime.com/share/@KeshavKant/84530714-8575-4835-9869-66e5f6f8d0a0.svg)
+
 <!--END_SECTION:waka-->
