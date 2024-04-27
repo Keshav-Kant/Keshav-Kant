@@ -25,7 +25,6 @@ That's why I like to make things that make a difference.
 
 - 👨‍🎓 I'm a **Computer Science Engineering with Artificial Intelligence Student**
 - 🔭 I’m currently working on [JU Query](https://github.com/Keshav-Kant/Ecom) platform
-- 👨‍🏫 I'm the **Software Developer Intern** at [Codecademy JU](https://www.linkedin.com/company/syntheim/)
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms
