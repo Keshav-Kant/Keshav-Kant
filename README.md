@@ -99,9 +99,10 @@ That's why I like to make things that make a difference.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   7 hrs 2 mins    ████████████████████████▓   98.19 %
-Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+JavaScript   7 hrs 4 mins    ███████████████████████▓░   95.29 %
+TypeScript   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
