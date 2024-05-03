@@ -10,7 +10,7 @@
 
 
 
-## Glad to see you here! &nbsp; https://visitor-badge.glitch.me/badge?page_id=Keshav-Kant.visitor-badge
+## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=Keshav-Kant&left_color=green&right_color=red)
 
 I am a Freelancer Full Stack Developer. I love programming, reading, and Implementing.
 
