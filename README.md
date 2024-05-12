@@ -99,11 +99,9 @@ That's why I like to make things that make a difference.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   7 hrs 31 mins   ██████████████████████░░░   87.61 %
-Python       38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-INI          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+JavaScript   5 hrs 23 mins   ███████████████████████▓░   95.10 %
+CSS          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 ```
 
 <!--END_SECTION:waka-->
