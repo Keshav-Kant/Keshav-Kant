@@ -99,11 +99,11 @@ That's why I like to make things that make a difference.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   4 hrs 3 mins    █████████████████▓░░░░░░░   70.55 %
-CSS          1 hr 15 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.80 %
-HTML         26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript   2 hrs 34 mins   ███████████████░░░░░░░░░░   59.41 %
+CSS          1 hr 17 mins    ███████▓░░░░░░░░░░░░░░░░░   30.01 %
+HTML         26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
