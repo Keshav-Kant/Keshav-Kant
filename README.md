@@ -12,11 +12,9 @@
 
 ## Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Keshav-Kant)
 
-I am a Freelancer Full Stack Developer. I love programming, reading, and Implementing.
+I'm a passionate AI/ML freelancer and full-stack developer with a knack for building impactful applications.
 
-As a Full Stack Developer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
-
-That's why I like to make things that make a difference.
+My obsessive attention to detail and love for creating innovative solutions drive me to make a difference in the world.
 
 <img align="right" alt="GIF" src="https://github.com/Keshav-Kant/Keshav-Kant/blob/master/coding.gif?raw=true" width="408" height="318" />
 
@@ -24,11 +22,11 @@ That's why I like to make things that make a difference.
 ### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **Computer Science Engineering with Artificial Intelligence Student**
-- 🔭 I’m currently working on [JU Query](https://github.com/Keshav-Kant/Ecom) platform
+- 🔭 I’m currently working on [AI Models](https://numpy.org/) platform
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
-  - Data Structures and Algorithms
-  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
+  - Machine Learning and Deep Learning Models
+  - Tools and technologies from <a href="#"><img alt="React" src="https://www.python.org/static/img/python-logo.png"></a> ecosystem
 - 📬 How to reach me: [keshavkant7859@gmail.com](mailto:keshavkant7859@gmail.com)
 - 📝 [Resume]([https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing](https://drive.google.com/file/d/1pXp9OyF0A7w3T8Eez85c5Y3kKumU_fQ0/view?usp=drive_link)).
 - 💪 This is where I write, code and solve problems:
