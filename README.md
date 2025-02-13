@@ -97,11 +97,11 @@ My obsessive attention to detail and love for creating innovative solutions driv
 <!--START_SECTION:waka-->
 
 ```txt
-Python       8 hrs 8 mins    ████████████████▒░░░░░░░░   65.79 %
-JavaScript   2 hrs 44 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
-Text         40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-CSV          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Python       8 hrs 8 mins    ██████████████░░░░░░░░░░░   55.78 %
+JavaScript   2 hrs           ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
+CSS          1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
+HTML         1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+Text         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
 ```
 
 <!--END_SECTION:waka-->
