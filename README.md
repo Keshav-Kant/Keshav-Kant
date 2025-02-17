@@ -1,6 +1,6 @@
 # Welcome to [Keshav Kant's](https://keshavkant.netlify.app/) profile! <a href="https://keshavkant.netlify.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/keshavkant-ai/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Keshav Kant" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/keshavkant-ai/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Keshav Kant" width="50" /></a>
 &nbsp;
 <a href="https://twitter.com/keshavkant_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Keshav Kant" height="30" width="40" /></a>
 &nbsp;
