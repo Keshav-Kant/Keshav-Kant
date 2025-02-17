@@ -28,12 +28,9 @@ Obsessed with details, innovation, and pushing tech to actually make a differenc
   - Machine Learning and Deep Learning Models
   - Tools and technologies from <a href="#"><img alt="React" src="https://www.python.org/static/img/python-logo.png"></a> ecosystem
 - 📬 How to reach me: [keshavkant7859@gmail.com](mailto:keshavkant7859@gmail.com)
-- 📝 <a href="https://drive.google.com/file/d/1PhHmpigWJAhxPwVQH0nUWHOyBcEq1DvC/view?usp=drive_link">[Resume]</a>
+- 📝 <a href="https://drive.google.com/file/d/1PhHmpigWJAhxPwVQH0nUWHOyBcEq1DvC/view?usp=drive_link" target="_blank">Check my Resume!</a>
 - 💪 This is where I write, code and solve problems:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Keshav-Kant" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AswinBarath" height="30" width="40" /></a>
-&nbsp;
 ---
 
 ## 🛠️ My Favourite tools
