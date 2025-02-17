@@ -53,20 +53,12 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keshav-Kant&theme=tokyonight" alt="GitHub Streak Stats">
-</div>
-
----
-
 ### 🎯 Fun Fact  
 I break things to fix them better. 🛠️  
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats  
 
 📊 <b>This Week I Spent My Time On</b>
 
