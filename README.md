@@ -21,7 +21,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/Keshav-Kant/Keshav-Kant/blob/master/coding.gif?raw=true" width="380" height="280" />
 
-### 💡 A Bit About Me  
+### 💡 A Bit About Me
 - 👨‍💻 **AI & ML Enthusiast** | Full-stack Dev | Freelancer  
 - 🔥 Currently working on **Gait Anomaly Detection using CNN**  
 - 📚 Learning:  
@@ -35,10 +35,12 @@
 ## 🛠️ My Tech Stack  
 
 ### 📌 Languages  
+<div style="display:flex;flex-direction:row; gap:10px">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)  
+</div>
 
 ### 🚀 Frameworks & Tools  
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)  
