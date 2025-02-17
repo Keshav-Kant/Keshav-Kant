@@ -1,6 +1,6 @@
 # Welcome to [Keshav Kant's](https://keshavkant.netlify.app/) profile! <a href="https://keshavkant.netlify.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/keshavkant-cseai/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Keshav Kant" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/keshavkant-ai/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Keshav Kant" height="30" width="40" /></a>
 &nbsp;
 <a href="https://twitter.com/keshavkant_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Keshav Kant" height="30" width="40" /></a>
 &nbsp;
@@ -12,23 +12,23 @@
 
 ## Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Keshav-Kant)
 
-I'm a passionate AI/ML freelancer and full-stack developer with a knack for building impactful applications.
+I'm an AI/ML Dev and full-stack dev who’s all about building cool, impactful stuff.
 
-My obsessive attention to detail and love for creating innovative solutions drive me to make a difference in the world.
+Obsessed with details, innovation, and pushing tech to actually make a difference. 🚀
 
 <img align="right" alt="GIF" src="https://github.com/Keshav-Kant/Keshav-Kant/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 
 ### Talking about Personal Stuff:
 
-- 👨‍🎓 I'm a **Computer Science Engineering with Artificial Intelligence Student**
-- 🔭 I’m currently working on [AI Models](https://numpy.org/) platform
+- 👨‍🎓 I'm a ** Artificial Intelligence & Machine Learning Developer**
+- 🔭 I’m currently Working on Gait Anamoly Detection using CNN.
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
   - Machine Learning and Deep Learning Models
   - Tools and technologies from <a href="#"><img alt="React" src="https://www.python.org/static/img/python-logo.png"></a> ecosystem
 - 📬 How to reach me: [keshavkant7859@gmail.com](mailto:keshavkant7859@gmail.com)
-- 📝 [Resume]([https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing](https://drive.google.com/file/d/1pXp9OyF0A7w3T8Eez85c5Y3kKumU_fQ0/view?usp=drive_link)).
+- 📝 <a href="https://drive.google.com/file/d/1PhHmpigWJAhxPwVQH0nUWHOyBcEq1DvC/view?usp=drive_link">[Resume]</a>
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
