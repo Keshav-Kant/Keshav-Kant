@@ -32,6 +32,20 @@
 
 ---
 
+## 💥 Latest Projects  
+Check out what I’ve been up to lately! 🚀
+
+### 🔥 Featured
+
+- **Gait Anomaly Detection using CNN**: Detecting injuries & disorders based on human walking patterns! 🚶‍♂️ [View Project](https://github.com/Keshav-Kant/gait-anomaly-detection)
+- **AI-Powered Poetic Text Generator**: Crafting beautiful, meaningful poetry with AI magic. ✨ [View Project](https://github.com/Keshav-Kant/poetic-text-generator)
+- **Crop Yield Prediction App**: Helping farmers predict crop yield using AI! 🌾 [View Project](https://github.com/Keshav-Kant/crop-yield-prediction)
+- **Personalized College Application Bot**: Assisting students with their essays & applications. 🎓 [View Project](https://github.com/Keshav-Kant/college-application-bot)
+
+👉 [Explore All Projects](https://github.com/Keshav-Kant?tab=repositories) 👈
+
+
+---
 ## 🛠️ My Tech Stack  
 
 ### 📌 Languages
