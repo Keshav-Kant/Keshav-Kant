@@ -54,7 +54,7 @@ Obsessed with details, innovation, and pushing tech to actually make a differenc
 <p>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-   <a href="#"><img alt="TensorFlow" src="https://www.gstatic.com/devrel-devsite/prod/v38a693baeb774512feb42f10aac8f755d8791ed41119b5be7a531f8e16f8279f/tensorflow/images/lockup.svg?logo=TensorFlow&logoColor=white"></a>
+   <a href="#"><img alt="TensorFlow" src="https://www.gstatic.com/devrel-devsite/prod/v38a693baeb774512feb42f10aac8f755d8791ed41119b5be7a531f8e16f8279f/tensorflow/images/lockup.svg?logo=TensorFlow&logoColor=white" height="30" width="40"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-native-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
