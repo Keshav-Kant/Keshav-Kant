@@ -93,8 +93,7 @@ I break things to fix them better. 🛠️
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 27 mins    ██████████████▓░░░░░░░░░░   58.52 %
-Python       1 hr 1 min      ██████████▒░░░░░░░░░░░░░░   41.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
