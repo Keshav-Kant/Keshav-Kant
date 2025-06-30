@@ -79,6 +79,12 @@ Check out what I’ve been up to lately! 🚀
 </p>
 
 
+## 🎯 What I'm Looking For
+- AI/ML Engineer Internships or Entry-Level Roles  
+- Freelance ML/NLP Projects  
+- Collaborations on Deep Learning or LLM applications  
+
+
 ---
 
 ### 🎯 Fun Fact  
