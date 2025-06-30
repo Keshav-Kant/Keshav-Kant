@@ -28,7 +28,7 @@
   - Deep Learning, Computer Vision, LLMs  
   - Full-stack Dev (React, Node.js, PostgreSQL)  
 - 💌 Let's talk tech! [Email Me](mailto:keshavkant7859@gmail.com)  
-- 📝 [Check out my Resume](https://drive.google.com/file/d/1PhHmpigWJAhxPwVQH0nUWHOyBcEq1DvC/view?usp=drive_link)  
+- 📝 [Check out my Resume](https://drive.google.com/file/d/1tcH4SHBNTKJGtjeKOG-aHDETpXenuVJH/view?usp=drive_link)  
 
 ---
 
