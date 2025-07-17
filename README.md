@@ -99,7 +99,8 @@ I break things to fix them better. 🛠️
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   7 mins          █████████████████████████   99.56 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
